@@ -1,0 +1,12 @@
+{
+    "name": "twitter_nodejs",
+    "version": "v0.1.1",
+    "dependencies": {
+        "socket.io": "~0.9",
+        "express": "3.4.8",
+        "ntwitter": "0.5.0",
+        "cron": "1.0.1",
+        "underscore": "1.5.2",
+        "path": "0.4.9"
+    }
+}
